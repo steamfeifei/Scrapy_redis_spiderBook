@@ -1,0 +1,2 @@
+# Scrapy_redis_spiderBook
+通过Scrapy_redis框架简单实现的分布式爬虫
